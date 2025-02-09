@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dante</h1>
 <h3 align="center">I am a third-year student at Middlebury College studying Computer Science</h3>
 
-- 🔭 I’m currently working on **developing a notion-like app so that I don't have to pay for a notion subscription. I plan on using React, Typescript, Socket IO, Docker, and PostgreSQL as my tech-stack**
+- 🔭 I’m currently working on **developing a notion-like app using React, Typescript, Socket IO, Docker, and PostgreSQL as my tech-stack**
 
 - 🌱 I’m currently learning **TypeScript**
 
