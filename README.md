@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dante</h1>
-<h3 align="center">I am a third-year student at Middlebury College studying Computer Science</h3>
+<h3 align="center">I am a fourth-year student at Middlebury College studying Computer Science</h3>
 
 - 🔭 I’m currently working on **developing a notion-like app using React, Typescript, Socket IO, Docker, and PostgreSQL as my tech-stack**
 
